@@ -1,0 +1,28 @@
+.result-card {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.result-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1e3a8a;
+    margin-bottom: 5px;
+}
+.result-author {
+    font-size: 14px;
+    color: #4a5568;
+    margin-bottom: 5px;
+}
+.result-url {
+    font-size: 14px;
+    color: #4a5568;
+}
+.result-url a {
+    color: #4a5568;
+    text-decoration: none;
+}
+.result-url a:hover {
+    text-decoration: underline;
+}
